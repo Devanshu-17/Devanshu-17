@@ -1,21 +1,19 @@
-### Hi there 👋
-
-
-
-### 👨‍🎓 My portfolio website:
- https://devanshu-17.github.io/devanshu-portfolio/
-
-### 📈 &nbsp;Activity Graph
-[![Devanshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Devanshu-17&theme=tokyo-night)](https://github.com/Devanshu-17/github-readme-activity-graph)
-
+<p align="center">
+ <img src="./header.png" alt="app-screen" width="900" />
+ </p>
 
 <p align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=30&duration=2500&pause=1000&color=7b36eb&center=true&vCenter=true&width=500&lines=ML+Engineer;Open+Source+Advocate;Data+Analyst" alt="Typing SVG" /></a>
 </p>
 
 
+## 👨‍🎓 My portfolio website:
+ https://devanshu-17.github.io/devanshu-portfolio/
 
-### 🛠 &nbsp;Tech Stack
+## 📈 &nbsp;Activity Graph
+[![Devanshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Devanshu-17&theme=tokyo-night)](https://github.com/Devanshu-17/github-readme-activity-graph)
+
+## 🛠 &nbsp;Tech Stack
 __Programming Languages__ \
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -60,7 +58,7 @@ __Machine Learning/Deep Learning__ \
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Devanshu-17&layout=compact&langs_count=8&theme=algolia"/>
 </p>
   
- ### 🎖️ &nbsp;Badges
+ ## 🎖️ &nbsp;Badges
 
   [![@Devanshu's Holopin board](https://holopin.me/devanshu17)](https://www.holopin.io/@devanshu17)
 
