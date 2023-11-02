@@ -1,6 +1,4 @@
-<p align="center">
- <img src="./header.png" alt="app-screen" width="900" />
- </p>
+🤗 Hey There, I am Devanshu. I am a
  
 <p align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=30&duration=2500&pause=1000&color=7b36eb&center=true&vCenter=true&width=500&lines=ML+Engineer;Open+Source+Advocate;Data+Analyst" alt="Typing SVG" /></a>
