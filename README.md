@@ -5,9 +5,6 @@
 </p>
 
 
-## 👨‍🎓 My portfolio website:
- https://devanshu-17.github.io/devanshu-portfolio/
-
 ## 📈 &nbsp;Activity Graph
 
 [![Devanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devanshu-17&theme=tokyo-night)](https://github.com/Devanshu-17/github-readme-activity-graph)
